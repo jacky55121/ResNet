@@ -1,0 +1,2 @@
+Model saved in file at iteration 3840256: ./tf_resnet_model_iter15001.ckpt
+Model saved in file: ./tf_resnet_model.ckpt
